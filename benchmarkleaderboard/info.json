@@ -1,12 +1,12 @@
 {
     "author": ["Drago Prime"],
     "name": "BenchmarkLeaderboard",
+    "install_msg": "Thank you for installing this cog!\nDo `[p]help CogName` to get the list of commands and their description.",
     "short": "Track benchmark scores across different categories",
     "description": "A cog that allows users to add and track benchmark scores, creating leaderboards for different performance metrics.",
     "requirements": [],
     "tags": ["utility", "benchmark", "leaderboard"],
     "min_bot_version": "3.5.0",
-    "max_bot_version": "4.0.0",
     "permissions": [
         "embed_links",
         "manage_messages"
