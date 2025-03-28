@@ -25,4 +25,4 @@ To install a cog, use this command, replacing <cog> with the name of the cog you
 | Calendar Sync | <details><summary>Syncs Discord scheduled events to a Google Calendar</summary>Syncs Discord scheduled events to a Google Calendar</details>
 
 # How to use:
-Check the [wiki](https://github.com/DragoPrime/Prago-Cogs/wiki) for information on every cog and the commands they use.
+Check the [wiki]((https://github.com/DragoPrime/Prime-Cogs/wiki)) for information on every cog and the commands they use.
