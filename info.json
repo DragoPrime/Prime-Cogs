@@ -1,0 +1,8 @@
+{
+    "author" : ["Drago Prime (dragoprime)"],
+    "install_msg" : "Thank you for installing my repo! These cogs are made with Claude.AI, there is no support for them!",
+    "name" : "Prime-Cogs",
+    "short" : "Some cogs for Red Discord Bot!",
+    "description" : "Some cogs for Red Discord Bot!",
+    "tags" : ["utility", "functionalities"]
+}
