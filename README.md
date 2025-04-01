@@ -23,6 +23,7 @@ To install a cog, use this command, replacing <cog> with the name of the cog you
 | --- | ----------- |
 | BenchmarkLeaderboard | <details><summary>Allows users to add, view, and manage benchmarking leaderboards</summary>Allows users to add, view, and manage benchmarking leaderboards</details>
 | Calendar Sync | <details><summary>Syncs Discord scheduled events to a Google Calendar</summary>Syncs Discord scheduled events to a Google Calendar</details>
+| Jellyfin Library Stats | <details><summary>Updates library statistics on a Jellyfin server weekly</summary>Updates library statistics on a Jellyfin server weekly</details>
 
 # How to use:
 Check the [wiki](https://github.com/DragoPrime/Prime-Cogs/wiki) for information on every cog and the commands they use.
