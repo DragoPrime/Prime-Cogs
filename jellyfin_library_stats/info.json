@@ -3,7 +3,7 @@
     "author": ["Drago Prime"],
     "name": "Jellyfin Library Stats",
     "short": "Monitors Jellyfin library statistics",
-    "description": "A module that weekly updates statistics of libraries from a Jellyfin server",
+    "description": "A module that weekly updates statistics of libraries from a Jellyfin server, in a channel",
     "version": "1.0.0",
     "requirements": ["aiohttp"],
     "license": "MIT",
