@@ -7,4 +7,5 @@
     "version": "1.0.0",
     "requirements": ["aiohttp"],
     "license": "MIT"
+    "min_bot_version": "3.5.0"
 }
