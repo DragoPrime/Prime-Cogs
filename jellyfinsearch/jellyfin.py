@@ -52,8 +52,8 @@ class JellyfinSearch(commands.Cog):
             return f"{hours}h {remaining_minutes}m"
         return f"{remaining_minutes}m"
 
-    @commands.command(name="search")
-    async def search(self, ctx, *, query: str):
+    @commands.command(name="searchj")
+    async def searchj(self, ctx, *, query: str):
         """Search for content on your Jellyfin server"""
         base_url = await self.get_base_url()
         api_key = await self.get_api_key()
